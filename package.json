@@ -21,6 +21,7 @@
     "react": "^18",
     "react-dom": "^18",
     "react-dropzone": "^14.3.8",
+    "sonner": "^2.0.1",
     "tailwind-merge": "^2.6.0",
     "uuid": "^9.0.1"
   },
